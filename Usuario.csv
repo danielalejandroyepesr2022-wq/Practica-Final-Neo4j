@@ -1,0 +1,26 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+1,Carlos Gómez,28,M,carlos.gomez@correo.com,1998-03-14
+2,Laura Martínez,31,F,laura.martinez@correo.com,1995-07-02
+3,Andrés Pérez,25,M,andres.perez@correo.com,2000-11-21
+4,Camila Rojas,34,F,camila.rojas@correo.com,1992-05-09
+5,Juan Torres,38,M,juan.torres@correo.com,1988-09-30
+6,Valentina Díaz,23,F,valentina.diaz@correo.com,2003-01-17
+7,Sebastián León,27,M,sebastian.leon@correo.com,1999-06-25
+8,Mariana Ortiz,35,F,mariana.ortiz@correo.com,1990-12-03
+9,Sofía Hernández,30,F,sofia.hernandez@correo.com,1996-04-08
+10,Diego Ramírez,25,M,diego.ramirez@correo.com,2001-08-19
+11,Lucía Fernández,33,F,lucia.fernandez@correo.com,1993-02-27
+12,Mateo Silva,39,M,mateo.silva@correo.com,1987-10-12
+13,Isabella Castro,24,F,isabella.castro@correo.com,2002-03-05
+14,Santiago Vargas,32,M,santiago.vargas@correo.com,1994-07-22
+15,Daniela Mora,41,F,daniela.mora@correo.com,1985-01-29
+16,Pablo Navarro,29,M,pablo.navarro@correo.com,1997-09-15
+17,Emma Johnson,35,F,emma.johnson@correo.com,1991-11-06
+18,Lucas Oliveira,37,M,lucas.oliveira@correo.com,1989-05-18
+19,Alex Morgan,22,Otro,alex.morgan@correo.com,2004-06-10
+20,Marta Ruiz,26,F,marta.ruiz@correo.com,2000-02-01
+21,Nicolás Pardo,40,M,nicolas.pardo@correo.com,1986-08-23
+22,Ana Salazar,26,F,ana.salazar@correo.com,1999-12-09
+23,Gabriel Arias,33,M,gabriel.arias@correo.com,1993-10-04
+24,Hanna Müller,31,F,hanna.muller@correo.com,1995-03-28
+25,Pierre Dubois,36,M,pierre.dubois@correo.com,1990-06-16

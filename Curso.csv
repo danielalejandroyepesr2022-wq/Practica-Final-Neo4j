@@ -1,0 +1,26 @@
+cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
+1,Python para Principiantes,Curso de Python para Principiantes nivel básico,Básico,2021,4.67
+2,Java Avanzado,Curso de Java Avanzado nivel avanzado,Avanzado,2020,5.0
+3,Desarrollo Web con JavaScript,Curso de Desarrollo Web con JavaScript nivel intermedio,Intermedio,2022,5.0
+4,Análisis de Datos con Pandas,Curso de Análisis de Datos con Pandas nivel intermedio,Intermedio,2022,4.5
+5,Estadística para Ciencia de Datos,Curso de Estadística para Ciencia de Datos nivel intermedio,Intermedio,2021,4.0
+6,Visualización de Datos con Power BI,Curso de Visualización de Datos con Power BI nivel básico,Básico,2023,0.0
+7,Marketing Digital Esencial,Curso de Marketing Digital Esencial nivel básico,Básico,2023,4.5
+8,Diseño UX/UI,Curso de Diseño UX/UI nivel intermedio,Intermedio,2022,4.0
+9,Fundamentos de Negocios,Curso de Fundamentos de Negocios nivel básico,Básico,2019,0.0
+10,Finanzas Personales,Curso de Finanzas Personales nivel básico,Básico,2020,3.0
+11,Inglés Conversacional,Curso de Inglés Conversacional nivel básico,Básico,2021,4.0
+12,Nutrición y Salud,Curso de Nutrición y Salud nivel básico,Básico,2023,0.0
+13,Introducción a la Ingeniería de Software,Curso de Introducción a la Ingeniería de Software nivel intermedio,Intermedio,2020,5.0
+14,Ciberseguridad Básica,Curso de Ciberseguridad Básica nivel básico,Básico,2022,4.0
+15,Machine Learning Aplicado,Curso de Machine Learning Aplicado nivel avanzado,Avanzado,2023,4.33
+16,Deep Learning con Redes Neuronales,Curso de Deep Learning con Redes Neuronales nivel avanzado,Avanzado,2024,3.5
+17,Modelado de Bases de Datos,Curso de Modelado de Bases de Datos nivel intermedio,Intermedio,2021,4.0
+18,Neo4j y Bases de Datos de Grafos,Curso de Neo4j y Bases de Datos de Grafos nivel avanzado,Avanzado,2024,3.0
+19,Fotografía Digital,Curso de Fotografía Digital nivel básico,Básico,2022,0.0
+20,Teoría Musical,Curso de Teoría Musical nivel básico,Básico,2019,0.0
+21,Liderazgo de Equipos,Curso de Liderazgo de Equipos nivel intermedio,Intermedio,2023,5.0
+22,Computación en la Nube,Curso de Computación en la Nube nivel intermedio,Intermedio,2024,0.0
+23,Gestión de Proyectos Ágiles,Curso de Gestión de Proyectos Ágiles nivel intermedio,Intermedio,2022,0.0
+24,Emprendimiento e Innovación,Curso de Emprendimiento e Innovación nivel básico,Básico,2021,0.0
+25,Cálculo y Álgebra Lineal,Curso de Cálculo y Álgebra Lineal nivel avanzado,Avanzado,2020,0.0
