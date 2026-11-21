@@ -1,26 +1,31 @@
 moduloId,titulo,numero
-1,Módulo 1: Introducción a Python para Principiantes,1
-2,Módulo 1: Introducción a Java Avanzado,1
-3,Módulo 1: Introducción a Desarrollo Web con JavaScript,1
-4,Módulo 1: Introducción a Análisis de Datos con Pandas,1
-5,Módulo 1: Introducción a Estadística para Ciencia de Datos,1
-6,Módulo 1: Introducción a Visualización de Datos con Power BI,1
-7,Módulo 1: Introducción a Marketing Digital Esencial,1
-8,Módulo 1: Introducción a Diseño UX/UI,1
-9,Módulo 1: Introducción a Fundamentos de Negocios,1
-10,Módulo 1: Introducción a Finanzas Personales,1
-11,Módulo 1: Introducción a Inglés Conversacional,1
-12,Módulo 1: Introducción a Nutrición y Salud,1
-13,Módulo 1: Introducción a Introducción a la Ingeniería de Software,1
-14,Módulo 1: Introducción a Ciberseguridad Básica,1
-15,Módulo 1: Introducción a Machine Learning Aplicado,1
-16,Módulo 1: Introducción a Deep Learning con Redes Neuronales,1
-17,Módulo 1: Introducción a Modelado de Bases de Datos,1
-18,Módulo 1: Introducción a Neo4j y Bases de Datos de Grafos,1
-19,Módulo 1: Introducción a Fotografía Digital,1
-20,Módulo 1: Introducción a Teoría Musical,1
-21,Módulo 1: Introducción a Liderazgo de Equipos,1
-22,Módulo 1: Introducción a Computación en la Nube,1
-23,Módulo 1: Introducción a Gestión de Proyectos Ágiles,1
-24,Módulo 1: Introducción a Emprendimiento e Innovación,1
-25,Módulo 1: Introducción a Cálculo y Álgebra Lineal,1
+1,Introducción a Python,1
+2,Variables y tipos de datos,2
+3,Estructuras de control,3
+4,Funciones,4
+5,Listas y diccionarios,5
+6,¿Qué es la ciencia de datos?,1
+7,Recolección de datos,2
+8,Limpieza de datos,3
+9,Estadística descriptiva,4
+10,Comunicación de resultados,5
+11,Historia de la IA,1
+12,Aprendizaje supervisado,2
+13,Aprendizaje no supervisado,3
+14,Procesamiento de lenguaje natural,4
+15,Ética en la IA,5
+16,Fundamentos del marketing digital,1
+17,Redes sociales,2
+18,Email marketing,3
+19,Publicidad en línea,4
+20,Métricas y analítica,5
+21,Principios de UX,1
+22,Investigación de usuarios,2
+23,Wireframes,3
+24,Prototipado,4
+25,Pruebas de usabilidad,5
+26,Fundamentos ágiles,1
+27,Scrum,2
+28,Kanban,3
+29,Planeación,4
+30,Retrospectivas,5

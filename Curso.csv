@@ -1,26 +1,26 @@
 cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
-1,Python para Principiantes,Curso de Python para Principiantes nivel básico,Básico,2021,4.67
-2,Java Avanzado,Curso de Java Avanzado nivel avanzado,Avanzado,2020,5.0
-3,Desarrollo Web con JavaScript,Curso de Desarrollo Web con JavaScript nivel intermedio,Intermedio,2022,5.0
-4,Análisis de Datos con Pandas,Curso de Análisis de Datos con Pandas nivel intermedio,Intermedio,2022,4.5
-5,Estadística para Ciencia de Datos,Curso de Estadística para Ciencia de Datos nivel intermedio,Intermedio,2021,4.0
-6,Visualización de Datos con Power BI,Curso de Visualización de Datos con Power BI nivel básico,Básico,2023,0.0
-7,Marketing Digital Esencial,Curso de Marketing Digital Esencial nivel básico,Básico,2023,4.5
-8,Diseño UX/UI,Curso de Diseño UX/UI nivel intermedio,Intermedio,2022,4.0
-9,Fundamentos de Negocios,Curso de Fundamentos de Negocios nivel básico,Básico,2019,0.0
-10,Finanzas Personales,Curso de Finanzas Personales nivel básico,Básico,2020,3.0
-11,Inglés Conversacional,Curso de Inglés Conversacional nivel básico,Básico,2021,4.0
-12,Nutrición y Salud,Curso de Nutrición y Salud nivel básico,Básico,2023,0.0
-13,Introducción a la Ingeniería de Software,Curso de Introducción a la Ingeniería de Software nivel intermedio,Intermedio,2020,5.0
-14,Ciberseguridad Básica,Curso de Ciberseguridad Básica nivel básico,Básico,2022,4.0
-15,Machine Learning Aplicado,Curso de Machine Learning Aplicado nivel avanzado,Avanzado,2023,4.33
-16,Deep Learning con Redes Neuronales,Curso de Deep Learning con Redes Neuronales nivel avanzado,Avanzado,2024,3.5
-17,Modelado de Bases de Datos,Curso de Modelado de Bases de Datos nivel intermedio,Intermedio,2021,4.0
-18,Neo4j y Bases de Datos de Grafos,Curso de Neo4j y Bases de Datos de Grafos nivel avanzado,Avanzado,2024,3.0
-19,Fotografía Digital,Curso de Fotografía Digital nivel básico,Básico,2022,0.0
-20,Teoría Musical,Curso de Teoría Musical nivel básico,Básico,2019,0.0
-21,Liderazgo de Equipos,Curso de Liderazgo de Equipos nivel intermedio,Intermedio,2023,5.0
-22,Computación en la Nube,Curso de Computación en la Nube nivel intermedio,Intermedio,2024,0.0
-23,Gestión de Proyectos Ágiles,Curso de Gestión de Proyectos Ágiles nivel intermedio,Intermedio,2022,0.0
-24,Emprendimiento e Innovación,Curso de Emprendimiento e Innovación nivel básico,Básico,2021,0.0
-25,Cálculo y Álgebra Lineal,Curso de Cálculo y Álgebra Lineal nivel avanzado,Avanzado,2020,0.0
+1,Python desde Cero,Aprende a programar en Python desde los conceptos básicos,Básico,2021,4.3
+2,Java Orientado a Objetos,Programación orientada a objetos con Java,Intermedio,2020,5.0
+3,JavaScript Moderno,Desarrollo web con JavaScript y ES6,Intermedio,2022,4.0
+4,Estructuras de Datos y Algoritmos,Análisis y diseño de estructuras de datos eficientes,Avanzado,2023,4.0
+5,Fundamentos de Ciencia de Datos,Introducción al ciclo de vida de un proyecto de datos,Básico,2022,3.7
+6,Análisis de Datos con Pandas,Manipulación y análisis de datos con la librería Pandas,Intermedio,2023,4.0
+7,Visualización de Datos con Power BI,Construcción de tableros e informes interactivos,Intermedio,2021,5.0
+8,Introducción a la Inteligencia Artificial,Conceptos clave y aplicaciones de la inteligencia artificial,Básico,2024,4.0
+9,Machine Learning Aplicado,Modelos de aprendizaje automático aplicados a casos reales,Avanzado,2024,5.0
+10,Redes Neuronales Profundas,Diseño y entrenamiento de redes neuronales profundas,Avanzado,2025,5.0
+11,Fundamentos de Ciberseguridad,Principios para proteger sistemas y redes,Básico,2023,3.0
+12,Hacking Ético,Pruebas de penetración y análisis de vulnerabilidades,Avanzado,2024,4.0
+13,Marketing Digital Esencial,Estrategias básicas de marketing en medios digitales,Básico,2021,4.5
+14,SEO y Posicionamiento Web,Optimización de sitios web para motores de búsqueda,Intermedio,2022,4.0
+15,Marketing de Contenidos,Creación y distribución de contenidos de valor,Intermedio,2023,4.0
+16,Diseño UX/UI,Diseño de experiencias e interfaces centradas en el usuario,Intermedio,2022,3.0
+17,Diseño Gráfico con Illustrator,Ilustración vectorial y composición visual,Básico,2020,3.0
+18,Fundamentos de Diseño de Producto,Del concepto al prototipo de un producto,Avanzado,2024,5.0
+19,Gestión de Proyectos Ágiles,Metodologías ágiles para la gestión de proyectos,Intermedio,2021,4.0
+20,Emprendimiento y Startups,Ideación y validación de un modelo de negocio,Básico,2022,5.0
+21,Liderazgo y Trabajo en Equipo,Habilidades de liderazgo para equipos de alto desempeño,Intermedio,2023,3.0
+22,Finanzas Personales,"Presupuesto, ahorro e inversión para el día a día",Básico,2021,5.0
+23,Análisis Financiero Corporativo,Interpretación de estados financieros y valoración,Avanzado,2024,4.0
+24,Inglés para Negocios,Comunicación profesional en inglés,Intermedio,2022,4.0
+25,Portugués para Principiantes,Vocabulario y estructuras básicas del portugués,Básico,2023,5.0

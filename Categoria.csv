@@ -1,26 +1,26 @@
 codigo,nombre,descripcion
-CAT01,Programación,Desarrollo de software y lenguajes de programación
-CAT02,Ciencia de Datos,"Análisis, estadística y visualización de datos"
-CAT03,Marketing,Estrategias de mercadeo y comunicación digital
-CAT04,Diseño,Diseño de experiencia e interfaces
-CAT05,Negocios,Gestión y administración empresarial
-CAT06,Finanzas,Finanzas personales y corporativas
-CAT07,Idiomas,Aprendizaje de lenguas extranjeras
-CAT08,Salud,"Salud, nutrición y bienestar"
-CAT09,Ingeniería,Fundamentos de ingeniería y procesos
-CAT10,Ciberseguridad,Seguridad de la información
-CAT11,Inteligencia Artificial,Aprendizaje automático y redes neuronales
-CAT12,Bases de Datos,Modelado y administración de datos
-CAT13,Fotografía,Técnicas de fotografía y edición
-CAT14,Música,Teoría y práctica musical
-CAT15,Liderazgo,Habilidades de dirección y trabajo en equipo
-CAT16,Desarrollo Web,Construcción de sitios y aplicaciones web
-CAT17,Redes,Redes y telecomunicaciones
-CAT18,Cloud Computing,Servicios y arquitectura en la nube
-CAT19,Gestión de Proyectos,Planificación y control de proyectos
-CAT20,Emprendimiento,Creación y validación de negocios
-CAT21,Educación,Pedagogía y enseñanza
-CAT22,Psicología,Comportamiento y salud mental
-CAT23,Arte,Artes plásticas e historia del arte
-CAT24,Matemáticas,"Cálculo, álgebra y estadística"
-CAT25,Sostenibilidad,Medio ambiente y desarrollo sostenible
+PRG,Programación,Desarrollo de software y lenguajes de programación
+CDA,Ciencia de Datos,"Análisis, tratamiento y visualización de datos"
+MKT,Marketing,Estrategias de mercadeo y comunicación digital
+DIS,Diseño,"Diseño gráfico, de producto y de experiencia de usuario"
+NEG,Negocios,"Gestión de empresas, proyectos y liderazgo"
+FIN,Finanzas,Finanzas personales y corporativas
+IDI,Idiomas,Aprendizaje de lenguas extranjeras
+SAL,Salud y Bienestar,Hábitos saludables y bienestar integral
+MUS,Música,Teoría musical e interpretación de instrumentos
+FOT,Fotografía,Técnica y edición fotográfica
+ING,Ingeniería,Fundamentos de las distintas ramas de la ingeniería
+MAT,Matemáticas,"Álgebra, cálculo y estadística"
+FIS,Física,"Mecánica, electricidad y física moderna"
+QUI,Química,Química general y aplicada
+BIO,Biología,Ciencias de la vida y del ambiente
+HIS,Historia,Historia universal y regional
+LIT,Literatura,Análisis y creación literaria
+PSI,Psicología,Comportamiento humano y salud mental
+DER,Derecho,Fundamentos jurídicos y normatividad
+ECO,Economía,Micro y macroeconomía
+ARQ,Arquitectura,Diseño y representación arquitectónica
+CIB,Ciberseguridad,Protección de sistemas y redes
+IAR,Inteligencia Artificial,Aprendizaje automático y sistemas inteligentes
+GAS,Gastronomía,Técnicas culinarias y cocina internacional
+DEP,Deporte y Fitness,Entrenamiento físico y nutrición deportiva

@@ -1,31 +1,31 @@
 leccionId,titulo,descripcion,duracionMin,numero
-1,Lección 1: Python para Principiantes,Contenido de la lección 1 de Python para Principiantes,12,1
-2,Lección 2: Python para Principiantes,Contenido de la lección 2 de Python para Principiantes,15,2
-3,Lección 1: Java Avanzado,Contenido de la lección 1 de Java Avanzado,18,1
-4,Lección 2: Java Avanzado,Contenido de la lección 2 de Java Avanzado,20,2
-5,Lección 1: Desarrollo Web con JavaScript,Contenido de la lección 1 de Desarrollo Web con JavaScript,10,1
-6,Lección 2: Desarrollo Web con JavaScript,Contenido de la lección 2 de Desarrollo Web con JavaScript,12,2
-7,Lección 1: Análisis de Datos con Pandas,Contenido de la lección 1 de Análisis de Datos con Pandas,15,1
-8,Lección 2: Análisis de Datos con Pandas,Contenido de la lección 2 de Análisis de Datos con Pandas,18,2
-9,Lección 1: Estadística para Ciencia de Datos,Contenido de la lección 1 de Estadística para Ciencia de Datos,20,1
-10,Lección 2: Estadística para Ciencia de Datos,Contenido de la lección 2 de Estadística para Ciencia de Datos,10,2
-11,Lección 1: Visualización de Datos con Power BI,Contenido de la lección 1 de Visualización de Datos con Power BI,12,1
-12,Lección 1: Marketing Digital Esencial,Contenido de la lección 1 de Marketing Digital Esencial,15,1
-13,Lección 1: Diseño UX/UI,Contenido de la lección 1 de Diseño UX/UI,18,1
-14,Lección 1: Fundamentos de Negocios,Contenido de la lección 1 de Fundamentos de Negocios,20,1
-15,Lección 1: Finanzas Personales,Contenido de la lección 1 de Finanzas Personales,10,1
-16,Lección 1: Inglés Conversacional,Contenido de la lección 1 de Inglés Conversacional,12,1
-17,Lección 1: Nutrición y Salud,Contenido de la lección 1 de Nutrición y Salud,15,1
-18,Lección 1: Introducción a la Ingeniería de Software,Contenido de la lección 1 de Introducción a la Ingeniería de Software,18,1
-19,Lección 1: Ciberseguridad Básica,Contenido de la lección 1 de Ciberseguridad Básica,20,1
-20,Lección 1: Machine Learning Aplicado,Contenido de la lección 1 de Machine Learning Aplicado,10,1
-21,Lección 1: Deep Learning con Redes Neuronales,Contenido de la lección 1 de Deep Learning con Redes Neuronales,12,1
-22,Lección 1: Modelado de Bases de Datos,Contenido de la lección 1 de Modelado de Bases de Datos,15,1
-23,Lección 1: Neo4j y Bases de Datos de Grafos,Contenido de la lección 1 de Neo4j y Bases de Datos de Grafos,18,1
-24,Lección 1: Fotografía Digital,Contenido de la lección 1 de Fotografía Digital,20,1
-25,Lección 1: Teoría Musical,Contenido de la lección 1 de Teoría Musical,10,1
-26,Lección 1: Liderazgo de Equipos,Contenido de la lección 1 de Liderazgo de Equipos,12,1
-27,Lección 1: Computación en la Nube,Contenido de la lección 1 de Computación en la Nube,15,1
-28,Lección 1: Gestión de Proyectos Ágiles,Contenido de la lección 1 de Gestión de Proyectos Ágiles,18,1
-29,Lección 1: Emprendimiento e Innovación,Contenido de la lección 1 de Emprendimiento e Innovación,20,1
-30,Lección 1: Cálculo y Álgebra Lineal,Contenido de la lección 1 de Cálculo y Álgebra Lineal,10,1
+1,Instalación y primer programa,Configura el entorno y ejecuta tu primer script,15,1
+2,Tipos de datos básicos,"Números, cadenas y booleanos en Python",20,1
+3,Condicionales y ciclos,"Uso de if, for y while para controlar el flujo",25,1
+4,Definición y uso de funciones,Creación de funciones con parámetros y retorno,22,1
+5,Manejo de colecciones,Operaciones comunes con listas y diccionarios,30,1
+6,Ciclo de vida de un proyecto de datos,Etapas desde la pregunta hasta la entrega,18,1
+7,Fuentes y formatos de datos,"CSV, JSON y bases de datos como fuentes",20,1
+8,Tratamiento de valores faltantes,Detección y manejo de datos nulos y atípicos,25,1
+9,Medidas de tendencia central y dispersión,"Media, mediana, varianza y desviación estándar",28,1
+10,Construcción de un informe de hallazgos,Cómo presentar conclusiones a una audiencia,22,1
+11,De Turing a la actualidad,Hitos principales de la inteligencia artificial,16,1
+12,Clasificación y regresión,Modelos entrenados con datos etiquetados,24,1
+13,Agrupamiento de datos,Descubrimiento de patrones sin etiquetas,22,1
+14,El texto como dato,Representación y análisis de texto,26,1
+15,Sesgos y responsabilidad,Riesgos y buenas prácticas en sistemas inteligentes,18,1
+16,Embudo de conversión,Etapas del recorrido del cliente en línea,15,1
+17,Estrategia de contenido social,Planeación de publicaciones por plataforma,20,1
+18,Segmentación y campañas,Diseño de campañas de correo segmentadas,18,1
+19,Introducción a campañas de pago,Configuración básica de anuncios pagados,25,1
+20,Indicadores clave de desempeño,Medición del rendimiento de las campañas,22,1
+21,Experiencia centrada en el usuario,Conceptos base del diseño de experiencia,17,1
+22,Entrevistas y personas,Técnicas para conocer las necesidades del usuario,23,1
+23,Bocetos de baja fidelidad,Estructura de pantallas antes del diseño visual,20,1
+24,Prototipos interactivos,Herramientas para simular la interacción,28,1
+25,Evaluación con usuarios reales,Planeación y análisis de pruebas de usabilidad,21,1
+26,El manifiesto ágil,Valores y principios del desarrollo ágil,14,1
+27,"Roles, eventos y artefactos",Marco de trabajo Scrum paso a paso,30,1
+28,Tableros y límites de trabajo,Visualización y control del flujo de trabajo,19,1
+29,Estimación y backlog,Priorización y estimación de tareas,24,1
+30,Mejora continua del equipo,Dinámicas para evaluar y mejorar cada ciclo,16,1
